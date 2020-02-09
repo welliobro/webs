@@ -1,0 +1,45 @@
+body {
+    background-color: #BB8FCE;
+}
+
+#header{
+    background-color: mediumturquoise;
+    text-align: center;
+    border-width: 5px;
+    border-style: solid;
+    border-color: burlywood;
+}
+
+#list{
+    border-width: 5px;
+    border-style: solid;
+    border-color: burlywood;
+    padding: 15px;
+    margin-left: 35%;
+}
+
+#navlinks {
+    position: fixed;
+}
+
+#footer{
+    background: mediumturquoise;
+    text-align: center;
+    padding: 15px;
+    font-size: 90%;
+    border-width: 1px;
+    border-style: solid;
+    border-color:burlywood;
+}
+
+img{
+    border-radius: 50%;
+    width: 50%;
+    height: 25%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: burlywood;
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+}
